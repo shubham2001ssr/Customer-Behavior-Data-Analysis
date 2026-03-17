@@ -8,6 +8,7 @@ notebook = {
    "source": [
     "# Customer Shopping Behavior Analysis\n",
     "## Portfolio Project: Data Cleaning & Exploratory Data Analysis (EDA)\n",
+    "**Author:** Shubham (@shubham2001ssr)\n",
     "---\n",
     "In this notebook, we'll implement the first step of the end-to-end data analytics workflow:\n",
     "1. **Data Import & Exploration:** Load our mock data and evaluate schema.\n",

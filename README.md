@@ -1,4 +1,5 @@
 # Customer Behavior Data Analyst Portfolio Project
+**Author:** Shubham ([@shubham2001ssr](https://github.com/shubham2001ssr))
 
 ## 📌 Project Overview
 This project represents a complete, industry-standard, end-to-end data analytics workflow. It is designed to mirror the real-world responsibilities of professional analysts in modern business environments by encompassing all critical stages of data analysis: from data preparation and modeling to insight generation, visualization, and reporting.

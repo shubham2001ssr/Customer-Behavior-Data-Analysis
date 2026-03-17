@@ -58,6 +58,10 @@ else:
     # Filter by Category
     categories = st.sidebar.multiselect("🛍️ Category:", options=sorted(df['Category'].unique()), default=sorted(df['Category'].unique()))
     
+    st.sidebar.markdown("---")
+    st.sidebar.markdown("👨‍💻 Built by **Shubham**")
+    st.sidebar.markdown("[GitHub: @shubham2001ssr](https://github.com/shubham2001ssr)")
+    
     # Apply filters
     mask = (df['Location'].isin(locations)) & (df['Season'].isin(seasons)) & (df['Category'].isin(categories))
     filtered_df = df[mask]
